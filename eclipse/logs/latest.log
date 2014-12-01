@@ -1,0 +1,65 @@
+[20:37:04] [main/INFO]: Setting user: Player0
+[20:37:05] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:37:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[20:37:13] [Sound Library Loader/INFO]: Sound engine started
+[20:37:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:37:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:37:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[20:37:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:37:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:37:16] [Sound Library Loader/INFO]: Sound engine started
+[20:37:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:37:16] [Client thread/ERROR]: @ Post startup
+[20:37:16] [Client thread/ERROR]: 1281: Invalid value
+[20:37:23] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:37:23] [Server thread/INFO]: Generating keypair
+[20:37:23] [Server thread/INFO]: Preparing start region for level 0
+[20:37:24] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:37:25] [Server thread/INFO]: Player0[local:E:acf27063] logged in with entity id 273 at (-1039.913589430093, 4.0, 1380.1284835057693)
+[20:37:25] [Server thread/INFO]: Player0 joined the game
+[20:37:37] [Client thread/INFO]: [CHAT] 'peaceful' is not a valid number
+[20:37:47] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[20:37:50] [Client thread/INFO]: [CHAT] --- Showing help page 1 of 5 (/help <page>) ---
+[20:37:50] [Client thread/INFO]: [CHAT] /achievement give <stat_name> [player]
+[20:37:50] [Client thread/INFO]: [CHAT] /clear <player> [item] [data]
+[20:37:50] [Client thread/INFO]: [CHAT] /debug <start|stop>
+[20:37:50] [Client thread/INFO]: [CHAT] /defaultgamemode <mode>
+[20:37:50] [Client thread/INFO]: [CHAT] /difficulty <new difficulty>
+[20:37:50] [Client thread/INFO]: [CHAT] /effect <player> <effect> [seconds] [amplifier]
+[20:37:50] [Client thread/INFO]: [CHAT] /enchant <player> <enchantment ID> [level]
+[20:37:50] [Client thread/INFO]: [CHAT] Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[20:37:57] [Client thread/INFO]: [CHAT] --- Showing help page 2 of 5 (/help <page>) ---
+[20:37:57] [Client thread/INFO]: [CHAT] Use /forge <subcommand>. Subcommands are tps, track
+[20:37:57] [Client thread/INFO]: [CHAT] /gamemode <mode> [player]
+[20:37:57] [Client thread/INFO]: [CHAT] /gamerule <rule name> <value> OR /gamerule <rule name>
+[20:37:57] [Client thread/INFO]: [CHAT] /give <player> <item> [amount] [data] [dataTag]
+[20:37:57] [Client thread/INFO]: [CHAT] /help [page|command name]
+[20:37:57] [Client thread/INFO]: [CHAT] /kill
+[20:37:57] [Client thread/INFO]: [CHAT] /me <action ...>
+[20:38:10] [Server thread/INFO]: [Player0: No game rule called 'peaceful' is available]
+[20:38:10] [Client thread/INFO]: [CHAT] No game rule called 'peaceful' is available
+[20:38:12] [Server thread/INFO]: Saving and pausing game...
+[20:38:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:38:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:38:12] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:39:23] [Server thread/INFO]: [Player0: Set game difficulty to Peaceful]
+[20:39:23] [Client thread/INFO]: [CHAT] Set game difficulty to Peaceful
+[20:39:27] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[20:39:31] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[20:39:36] [Client thread/INFO]: [CHAT] Dim -1 \: Mean tick time\: 0.086 ms. Mean TPS\: 20.000
+[20:39:36] [Client thread/INFO]: [CHAT] Dim 1 \: Mean tick time\: 0.029 ms. Mean TPS\: 20.000
+[20:39:36] [Client thread/INFO]: [CHAT] Dim 0 \: Mean tick time\: 6.045 ms. Mean TPS\: 20.000
+[20:39:36] [Client thread/INFO]: [CHAT] Overall \: Mean tick time\: 6.354 ms. Mean TPS\: 20.000
+[20:39:54] [Server thread/INFO]: Player0 has just earned the achievement [Taking Inventory]
+[20:39:54] [Client thread/INFO]: [CHAT] Player0 has just earned the achievement [Taking Inventory]
+[20:41:04] [Server thread/INFO]: Saving and pausing game...
+[20:41:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:41:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:41:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:41:07] [Server thread/INFO]: Stopping server
+[20:41:07] [Server thread/INFO]: Saving players
+[20:41:07] [Server thread/INFO]: Saving worlds
+[20:41:07] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:41:07] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:41:07] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:41:12] [Client thread/INFO]: Stopping!
